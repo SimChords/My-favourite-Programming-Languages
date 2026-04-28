@@ -1,4 +1,4 @@
-namespace My_Favourite_Programming_Languages
+namespace Programming_Language_App
 {
     internal static class Program
     {
